@@ -1,16 +1,11 @@
 {
-    "name": "skeleton",
-    "label": "Skeleton",
+    "name": "test1-package",
+    "label": "Test 1 Package",
     "dependencies": [
         {
             "type": "service",
-            "name": "http",
-            "version": "v1.8.5"
-        },
-        {
-            "type": "package",
-            "name": "oauth",
-            "version": "v1.0.34"
+            "name": "proxy",
+            "version": "v1.0.11"
         }
     ],
     "configurationBuilder": "/configurationBuilder.js",
