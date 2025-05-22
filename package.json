@@ -1,5 +1,5 @@
 {
-    "name": "test1-package",
+    "name": "test1package",
     "label": "Test 1 Package",
     "dependencies": [
         {
